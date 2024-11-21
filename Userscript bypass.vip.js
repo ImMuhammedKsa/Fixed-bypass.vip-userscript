@@ -13,7 +13,7 @@
 // @match       *://*lootdest.com/s?*
 // @match       *://*links-loot.com/s?*
 // @match       *://*linksloot.net/s?*
-// @match       *://*.linkvertise.com/*
+// @match       *://*.linkvertise.com/*/*
 // @match       *://*.paster.so/*
 // @match       *://*.boost.ink/*
 // @match       *://*.mboost.me/*
