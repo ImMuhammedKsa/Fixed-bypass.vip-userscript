@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name          BYPASS.VIP BYPASSER (for mobile)
+// @name          BYPASS.VIP BYPASSER (fixed by @yo_yo_yo_ on discord ★)
 // @namespace     bypass.vip
 // @version       0.3
 // @author        bypass.vip (fixed for mobile by @yo_yo_yo_ on discord)
